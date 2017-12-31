@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GitRepo</string>
+    <string name="title_activity_repo_details">RepoDetailsActivity</string>
+    <string name="action_search">Search</string>
+    <string-array name="filter_repo">
+        <item>stars</item>
+        <item>forks</item>
+        <item>updated</item>
+    </string-array>
+</resources>
